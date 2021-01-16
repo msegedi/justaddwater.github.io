@@ -2,14 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# BEWARE! You may be a "just add water" individual if one or more of the following apply to you:
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Prefer dogs over cats
+* Have the name "Jenna"
+* Have created a video game named "Maze with Cube"
+* Only vacation to Myrtle Beach
+* Answer "I don't know" when asked about your aspirations in life
