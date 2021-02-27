@@ -9,4 +9,5 @@ layout: default
 * Have created a video game named "Maze with Cube"
 * Only vacation to Myrtle Beach
 * Answer "I don't know" when asked about your aspirations in life
-* Answer "no" when asked if you would take a free trip into space if offered by Elon Musk.
+* Answer "no" when asked if you would take a free trip into space if offered by Elon Musk
+* Have no interest in space
